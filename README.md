@@ -4,9 +4,7 @@
 <p align= "center">
    <kbd>
    <img  src=https://raw.githubusercontent.com/qc1337/Skid-Wipe-MultiLoader_Fn-Cheats/1.png
-   <img  src=https://raw.githubusercontent.com/qc1337/Skid-Wipe-MultiLoader_Fn-Cheats/2.png
    </kbd><br><br>
-   <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
 </p>
 
 ## MENU FEATURES
