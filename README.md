@@ -3,7 +3,8 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src=https://raw.githubusercontent.com/qc1337/123-Wallet-Cookie-Grabber/main/Extras/showcase.PNG
+   <img  src=https://raw.githubusercontent.com/qc1337/123-Wallet-Cookie-Grabber/main/Extras/showcase.PNG](https://github.com/qc1337/Skid-Wipe-MultiLoader_Fn-Cheats/blob/main/1.png?raw=true
+   <img  src=https://raw.githubusercontent.com/qc1337/123-Wallet-Cookie-Grabber/main/Extras/showcase.PNG](https://github.com/qc1337/Skid-Wipe-MultiLoader_Fn-Cheats/blob/main/2.png?raw=true
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
 </p>
