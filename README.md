@@ -3,17 +3,17 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src=https://raw.githubusercontent.com/qc1337/Skid-Wipe-MultiLoader_Fn-Cheats/1.png
+   <img  src=1.png
    </kbd><br><br>
 </p>
 
 ## MENU FEATURES
 
-    •(1)  Load Cleaner  (1337r)    (6)  Load FNITE Cheat  (CapWare)  
-    •(2)  Load Spoofer  (Impact)   (7)  Load FNITE Cheat  (bat.cc)   
-    •(3)  Load Spoofer  (CapWare)  (8)  Load NOVA Cheat   (ZeroDay)  
-    •(4)  Load Spoofer  (Apple)    (9)  Load NOVA Cheat   (PubCheat)
-    •(!)  Updating Soon . . .      (0)  Serials Checker   (1337r.bat)
+    (1)  Load Cleaner  (1337r)    (6)  Load FNITE Cheat  (CapWare)  
+    (2)  Load Spoofer  (Impact)   (7)  Load FNITE Cheat  (bat.cc)   
+    (3)  Load Spoofer  (CapWare)  (8)  Load NOVA Cheat   (ZeroDay)  
+    (4)  Load Spoofer  (Apple)    (9)  Load NOVA Cheat   (PubCheat)
+    (!)  Updating Soon . . .      (0)  Serials Checker   (1337r.bat)
 
   
 ## RQUIREMENTS
