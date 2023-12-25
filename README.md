@@ -1,5 +1,5 @@
 <h1 align="center">
-   Skid Wipe MultiLoader by 1337r 
+   Skid Wipe MultiLoader (Load Spoofers & FN Cheats) 
 </h1>
 <p align= "center">
    <kbd>
@@ -16,7 +16,6 @@
     (4)  Load Spoofer  (Apple)    (9)  Load NOVA Cheat   (PubCheat)
     (!)  Updating Soon . . .      (0)  Serials Checker   (1337r.bat)
 
-  
 ## RQUIREMENTS
 
 - Windows 8/10/11
